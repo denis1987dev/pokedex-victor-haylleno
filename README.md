@@ -17,17 +17,12 @@ Interface simples e responsiva, otimizada para dispositivos móveis
 
 ## 🔧 Como Rodar o Projeto
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/denis1987dev/pokedex-victor-haylleno.git
-2. Acesse a pasta do projeto:
-npm install
+1. Clone este repositório: git clone https://github.com/denis1987dev/pokedex-victor-haylleno.git
+   
+2. Acesse a pasta do projeto: npm install
 
-4. Instale as dependências:
-npm install
+3. Instale as dependências: npm install
 
-5. Inicie o projeto:
-
-npm start
+4. Inicie o projeto: npm start
 
 📧 Denis Amaral - dennisamaraldasilva@gmail.com
